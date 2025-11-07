@@ -1,0 +1,4 @@
+*.o
+campus_system
+.vscode/
+*.txt
